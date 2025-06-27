@@ -35,7 +35,7 @@ export default function MovieItem({ movie, onUpdate, onDelete }: Props) {
   return (
     <Card className="w-70 h-85 lg:w-70 md:w-60 bg-gray-500 rounded-md bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10 border border-gray-100">
       <CardHeader className="px-3 py-1">
-        <div className="bg-linear-to-r from-[#2A9B88] to-[#16806D] text-black w-full rounded-sm h-35">
+        <div className="relative bg-linear-to-r from-[#2A9B88] to-[#16806D] text-black w-full rounded-sm h-33">
         </div>
         <CardTitle className="my-0 py-0">
         </CardTitle>
