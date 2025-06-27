@@ -7,7 +7,7 @@ import { AppSidebar } from "@/components/ui/app-sidebar";
 import "@fontsource/poppins"; 
 
 // For a specific weight
-import "@fontsource/poppins/700.css"; 
+import "@fontsource/poppins/600.css"; 
 
 // For a specific weight and style (e.g., italic)
 import "@fontsource/poppins/700-italic.css"; 
